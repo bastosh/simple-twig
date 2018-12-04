@@ -14,7 +14,7 @@ Twig version of simple skeleton
 ## Download
 Download or clone the repository :
 ```
-git clone https://github.com/bastosh/simple-demo.git my-new-project
+git clone https://github.com/bastosh/simple-twig.git my-new-project
 ```
 Go into the folder and start a new Git repository :
 ```
